@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 
-// import Home from "./views/Home.jsx";
+import Main from "./main.jsx";
 import Contacts from "./views/Contacts.jsx";
 import AddContact from "./views/AddContact.jsx";
 import injectContext from "./store/appContext";
